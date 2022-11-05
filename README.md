@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LIAN-JHWLR
-- 👀 I’m interested in developing virus
-- 🌱 I’m currently learning change the code
-- 💞️ I’m looking to collaborate on virtual system developing
+- 👀 I’m interested in developing software and study some live systems
+- 🌱 I’m currently learning design better PEs.
+- 💞️ I’m looking to collaborate on virtual system developing and PE making.
 - 📫 How to reach me jianghuwanglairen@outlook.com
 
 <!---
